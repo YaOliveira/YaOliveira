@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about programming or anything related to tech!
 - 🌱 I’m currently learning clean-code;
 - 😄 Pronouns: She/her;
-- 🖤 Loves: My family, Books, dogs and chocolate.
+- 🖤 Loves: My family, dogs, books and chocolate.
 
 
 ## ⚡ Technologies
