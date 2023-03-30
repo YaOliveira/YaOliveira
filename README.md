@@ -46,3 +46,6 @@ These are some of the technologies and tools that I work with:
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yara-oliveira)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaOliveira&layout=compact)
+
+
+![Snake animation](https://github.com/yaoliveira/yaoliveira/blob/output/github-contribution-grid-snake.svg)
