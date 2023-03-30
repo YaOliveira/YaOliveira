@@ -47,5 +47,3 @@ These are some of the technologies and tools that I work with:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaOliveira&layout=compact)
 
-
-![Snake animation](https://github.com/YaOliveira/YaOliveira/blob/output/github-contribution-grid-snake.svg)
