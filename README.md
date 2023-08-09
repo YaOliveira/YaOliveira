@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## I am Ya, a full-stack Developer :)
 
 
-- 👩‍💻 I’m currently working with Python, React and accessibility;
+- 👩‍💻 I’m currently working with Python, Django and accessibility;
 - 💬 Ask me about programming or anything related to tech!
 - 🌱 I’m currently learning clean-code;
 - 😄 Pronouns: She/her;
